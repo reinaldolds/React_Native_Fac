@@ -3,7 +3,7 @@
 + Projetos acadêmicos de React Native 
 + Professor: Kelson
 + aluno: Reinaldo
-+ Período: Reinaldo
++ Período: 5
 
 Durante a trejetória do período, faremos projetos para exercícitar nossos conhecimentos na biblioteca react, que diderente do semestre passado, agora voltada para desenvolvimento mobile.
 Com os conhecimentos de componentes, importações e hooks vindo das aulas anteriores, sendo possível reutilizar no desenvolvimento mobile, porém temos algumas mudanças importantes como nas tags de visualização, ex: "<View/>, <Text/>, <Button/>. Nota uma diferença na primeira letra da tag e outras que são nativas do desenvolvimento mobile. 
